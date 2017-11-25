@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HackerNews</string>
+
+    <string name="web_client_id">66890071257-1i4bne456npenl7ce694ag7v4foatakq.apps.googleusercontent.com</string>
+
+    <string name="login_heading">Hacker News</string>
+    <string name="login_sub_heading">mobile</string>
+
+    <string name="login_enter_otp_maually">Enter OTP manually</string>
+    <string name="login_phone_number">Phone Number</string>
+    <string name="login_password">One Time Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_get_otp">Login with Phone</string>
+    <string name="login_count_down">Your OTP is going to be expired in : %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="no_internet_message_1">No internet connection. Please turn on </string>
+    <string name="no_internet_message_2">your Wi-Fi or cellular data to make</string>
+    <string name="no_internet_message_3">the app work properly</string>
+</resources>

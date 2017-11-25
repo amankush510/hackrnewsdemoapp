@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea7312</color>
+    <color name="colorPrimaryDark">#222321</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="white_light">#f6f7f4</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#ea7312</color>
+
+
+    <color name="dividerColor">#eeeeee</color>
+    <color name="grey">#cccccc</color>
+</resources>
